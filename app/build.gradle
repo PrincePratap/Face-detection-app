@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'com.facedetection'
     compileSdk 33
 
     defaultConfig {
