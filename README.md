@@ -24,7 +24,7 @@ It detects human faces from captured images and shows detailed facial informatio
 
 | Home Screen | Capturing Image | Detection Result |
 |:-----------:|:----------------:|:----------------:|
-| ![Home](.screenshots/1st.jpg) | ![Camera](./448677c3-c073-4e76-bf28-6ed6f35b30ef.jpg) | ![Result](./346a23fb-fc85-4e13-80f1-2fe6554942a3.jpg) |
+| ![Home](screenshots/1st.jpg) | ![Camera](screenshots/2nd.jpg) | ![Result](screenshots/3rd.jpg) |
 
 ---
 
